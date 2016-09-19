@@ -10,7 +10,7 @@ public class Test2 {
 		return a-b;
 	}
 	
-	public int produit() {
+	public int multiplication() {
 		return a*b;
 	}
 	

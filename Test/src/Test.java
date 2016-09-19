@@ -1,6 +1,9 @@
 
 public class Test {
 
+	public void display(String message){
+		System.out.println(message);
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		for (int a=1; a<10; a++) {
