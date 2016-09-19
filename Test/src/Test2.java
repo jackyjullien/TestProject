@@ -10,6 +10,10 @@ public class Test2 {
 		return a-b;
 	}
 	
+	public int produit() {
+		return a*b;
+	}
+	
 	public int getA() {
 		return a;
 	}
